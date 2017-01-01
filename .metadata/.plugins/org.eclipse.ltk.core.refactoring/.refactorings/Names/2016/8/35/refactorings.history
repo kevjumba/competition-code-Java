@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;characters&apos; in &apos;namenum.generate(...)&apos; to &apos;sb&apos;&#x0A;- Original project: &apos;Names&apos;&#x0A;- Original element: &apos;namenum.generate(int, StringBuilder).characters&apos;&#x0A;- Renamed element: &apos;characters&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;characters&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{namenum.java[namenum~generate~I~QStringBuilder;@characters!377!400!391!400!QStringBuilder;!0!true" name="sb" references="true" stamp="1471968852138" version="1.0"/>
+</session>
